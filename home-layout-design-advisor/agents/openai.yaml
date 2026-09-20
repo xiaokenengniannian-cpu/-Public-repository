@@ -1,0 +1,6 @@
+interface:
+  display_name: "住宅设计综合顾问"
+  short_description: "整合户型、动线、软装、收纳与传统文化边界的住宅诊断"
+  default_prompt: "使用 $home-layout-design-advisor 分析这份住宅户型或现场照片，并输出带证据、评分区间和专业复核项的完整报告。"
+policy:
+  allow_implicit_invocation: true
